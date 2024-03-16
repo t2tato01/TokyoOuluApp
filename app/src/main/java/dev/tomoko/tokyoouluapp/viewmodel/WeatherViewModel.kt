@@ -17,7 +17,7 @@ import java.io.IOException
 
 class WeatherViewModel : ViewModel() {
 
-    private val weatherModel = WeatherModel(apiKey = "41ac77b7f759a36017e8b177d86c001c")
+    private val weatherModel = WeatherModel(apiKey = "")
 
     var cityName by mutableStateOf("City Name")
         private set

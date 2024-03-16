@@ -34,7 +34,7 @@ import java.io.IOException
 
 
 class MainActivity : ComponentActivity() {
-    //private lateinit var binding: ActivityMainBinding // ViewBindingのインスタンス
+
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

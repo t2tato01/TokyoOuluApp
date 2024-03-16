@@ -10,7 +10,6 @@ import java.net.URL
 
 class WeatherModel(private val apiKey: String) {
 
-        //https://api.openweathermap.org/data/2.5/weather?lang=ja&q=oulu&appid=41ac77b7f759a36017e8b177d86c001c
         suspend fun getWeather(city: String): JSONObject? {
             return withContext(Dispatchers.IO) {
                 //lang=ja

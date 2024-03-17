@@ -56,6 +56,3 @@ This app allows users to retrieve weather information for Tokyo and Oulu. On the
 
 
 
-© 2023 TokyoOulu University of Applied Sciences. All rights reserved.
-
-

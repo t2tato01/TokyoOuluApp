@@ -1,6 +1,7 @@
 # TokyoOulu Weather App
 
 TokyoOulu Weather App is an Android application built using Jetpack Compose to display weather information.
+![main]()
 
 ## Overview
 
@@ -13,6 +14,11 @@ This app allows users to retrieve weather information for Tokyo and Oulu. On the
 3. The app will retrieve the weather information and display it on the screen.
 4. Once the weather information is displayed, users can reset the information by clicking the "CLEAR" button if needed.
 
+## API Key
+
+- Please insert the provided API key into the parameter of the WeatherModel in the ViewModel file.
+- The key will be shared with you separately during submission.
+   
 ## Structure
 
 - `MainActivity`: The entry point of the app. It sets the content using Jetpack Compose's `setContent` function.

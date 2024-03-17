@@ -31,7 +31,7 @@ This app allows users to retrieve weather information for Tokyo and Oulu. On the
 
 ## Notes
 
-- This app was created as an assignment for the Android course at TokyoOulu University of Applied Sciences, Spring 2024.
+- This app was created as an assignment for the Android course at Oulu University of Applied Sciences, Spring 2024.
 
 ## Development Environment
 
@@ -43,7 +43,7 @@ This app allows users to retrieve weather information for Tokyo and Oulu. On the
 
 ### Grade 4
 - **Software Logic**: Complete
-- **UI Design**: [Customized UI Design](https://m3.material.io/theme-builder#/custom)
+- **UI Design**: Color scheme was made by here [M3 material](https://m3.material.io/theme-builder#/custom)
 - **Resource Management**: Complete
 - **Navigation**: Implements navigation with two screens (main and loading).
 

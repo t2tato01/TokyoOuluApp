@@ -4,9 +4,10 @@ TokyoOulu Weather App is an Android application built using Jetpack Compose to d
 ![main](ScreenshotMain.png) ![oulu](ScreenshotOulu.png) ![tokyo](ScreenshotTokyo.png) ![error](ScreenshotError.png)
 
 ## Overview
+This app was created for my parents and children living far away.
 
 This app allows users to retrieve weather information for Tokyo and Oulu. On the main screen of the app, the current weather along with the maximum and minimum temperatures are displayed. Users can switch between cities by clicking buttons.
-This app was created for my parents and children living far away.
+
 
 ## How to Use
 
